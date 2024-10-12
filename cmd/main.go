@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/ekimovvd/todo"
-	"github.com/ekimovvd/todo/pkg/handler"
+	"github.com/ekimovvd/todo-backend"
+	"github.com/ekimovvd/todo-backend/pkg/handler"
 )
 
 func main() {

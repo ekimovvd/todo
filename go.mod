@@ -1,4 +1,4 @@
-module github.com/ekimovvd/todo
+module github.com/ekimovvd/todo-backend
 
 go 1.23.2
 
